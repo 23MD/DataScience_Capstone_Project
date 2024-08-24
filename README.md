@@ -34,7 +34,7 @@ The models were evaluated based on the following metrics:
 - **Recall**: The ability of the model to identify all actual positive cases.
 - **F1 Score**: The harmonic mean of precision and recall.
 
-## SpaceX Launch Dashboard UI
+## Dashboard UI
 
 ![Piechart](https://github.com/23MD/DataScience_Capstone_Project/blob/02ffd8b1eaf80a4d14d2f7c54d74252243b6f38a/images/dash%20pie.PNG)
 
@@ -46,7 +46,9 @@ All classification model
 performed similarly on the test dataset and showed 
 same accuracy score.However there seems overfitting with Decision Tree Classifier model since the accuracy score on test dataset was fluctuating showing huge variation.
 ![Confusion matrix](https://github.com/23MD/DataScience_Capstone_Project/blob/02ffd8b1eaf80a4d14d2f7c54d74252243b6f38a/images/confusion_matrix.png)
+
 ![scores](https://github.com/23MD/DataScience_Capstone_Project/blob/02ffd8b1eaf80a4d14d2f7c54d74252243b6f38a/images/scores.PNG)
+
 ![accuracy](https://github.com/23MD/DataScience_Capstone_Project/blob/02ffd8b1eaf80a4d14d2f7c54d74252243b6f38a/images/Accuracy_score.png)
 
 ## Conclusion
